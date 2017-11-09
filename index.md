@@ -34,12 +34,12 @@ Call shortcode to your page template php file using –
 | 6 | items_mobile | 1 | numeric value only e.g. 5 | Number of columns in for the mobile view.|
 | 7 | total_items | 10 | numeric value only e.g. 5 | To show more that 10 products, change total_items value.|
 | 8 | color | `#e74c3c` | color code | Set product slider brand color.|
-| 9 | pagination | `true' | `true / false` | On / off slider pagination.|
+| 9 | pagination | `true` | `true / false` | On / off slider pagination.|
 | 10 | pagination_numbers | `true` | `true / false` | On / off pagination numbers.|
-| 11 | nav | `true` | 'true / false' | On / off slider navigation.|
+| 11 | nav | `true` | `true / false` | On / off slider navigation.|
 | 12 | auto_play | `true` | `true / false` | On / off auto play.|
-| 13 | stop_on_hover | `true` | 'true / false' | On / off stop slider on hover.|
-| 14 | products_type | blank | 'category / feature' | Use products type category or feature.|
+| 13 | stop_on_hover | `true` | `true / false` | On / off stop slider on hover.|
+| 14 | products_type | blank | `category / feature` | Use products type category or feature.|
 | 15 | rating | `true` | `true / false` | Show / hide product rating.|
 | 16 | sale_text | `true` | `true / false` | Show / hide product sale text.|
 | 17 | category | `blank` | `blank/category name/category1, category2` | For all categories no need to write category name; for single category = category-name; for multiple categories write category names with comma = category1, category2.|
